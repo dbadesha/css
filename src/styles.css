@@ -1,0 +1,8 @@
+.tri {
+	width: 0px;
+	height: 0px;
+	border-right: solid transparent 100px;
+	border-left: transparent yellow 100px;
+	border-top: transparent purple 100px;
+	border-bottom: solid orange 100px;
+}
